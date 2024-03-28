@@ -1,7 +1,7 @@
 ﻿
 namespace WPFMVVMStandard.ViewModels
 {
-    public class MainViewModel
+    public class MainViewModel : ViewModelBase
     {
         /// <summary>
         /// コンストラクタ
